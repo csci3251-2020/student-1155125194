@@ -48,14 +48,14 @@ I have made quite some mods for some games. Here are some of them:
 
 | Mod name | Game | Link | Description |
 | - | - | - | - |
-| Remove Fog: X Rebirth | X: Rebirth | https://steamcommunity.com/sharedfiles/filedetails/?id=1436262588 | Removes fog from the game for increased performance. |
-| Responsible Managers | X: Rebirth | https://steamcommunity.com/sharedfiles/filedetails/?id=1463410453 | Bugfix to let player-owned managers to send in money correctly. |
-| Extra Notifications | X: Rebirth | https://steamcommunity.com/sharedfiles/filedetails/?id=1450838793 | QOL mod to let the player know where things are happening. |
-| Specialized Industry Fix Redux | Cities: Skylines | https://steamcommunity.com/sharedfiles/filedetails/?id=1553517176 | Bugfix to avoid specialized industry from randomly shutting down. |
-| Desynchronized: Tales and News | RimWorld | https://steamcommunity.com/sharedfiles/filedetails/?id=1573233249 | Information spreads from one to another. |
-| Real-Time Clock Plus | RimWorld | https://steamcommunity.com/sharedfiles/filedetails/?id=1649648654 | Extra options for the real-time clock. Also discourages long hours of gaming. |
-| Elite Bionics Framework | RimWorld | https://steamcommunity.com/sharedfiles/filedetails/?id=1665403571 | Extra options about body parts for other modders. |
-| Civilian Fleets | X4: Foundations | https://www.nexusmods.com/x4foundations/mods/335 | QOL mod to simplify trading and mining management. |
+| Remove Fog: X Rebirth | X: Rebirth | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1436262588) | Removes fog from the game for increased performance. |
+| Responsible Managers | X: Rebirth | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1463410453), [GitHub](https://github.com/Vectorial1024/responsible_managers) | Bugfix to let player-owned managers to send in money correctly. |
+| Extra Notifications | X: Rebirth | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1450838793) | QOL mod to let the player know where things are happening. |
+| Specialized Industry Fix Redux | Cities: Skylines | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1553517176), [GitHub](https://github.com/Vectorial1024/SpecializedIndustryFixRedux) | Bugfix to avoid specialized industry from randomly shutting down. |
+| Desynchronized: Tales and News | RimWorld | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1573233249), [GitHub](https://github.com/Vectorial1024/Desynchronized) | Information spreads from one to another. |
+| Real-Time Clock Plus | RimWorld | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1649648654), [GitHub](https://github.com/Vectorial1024/RealTimeClockPlus) | Extra options for the real-time clock. Also discourages long hours of gaming. |
+| Elite Bionics Framework | RimWorld | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1665403571), [GitHub](https://github.com/Vectorial1024/EliteBionicsFramework) | Extra options about body parts for other modders. |
+| Civilian Fleets | X4: Foundations | [Nexus Mods](https://www.nexusmods.com/x4foundations/mods/335), [GitHub](https://github.com/Vectorial1024/v1024_civilian_fleets) | QOL mod to simplify trading and mining management. |
 
 ## CSCI3251 Engineering Practicum Milestone 2
 

@@ -29,3 +29,38 @@ As I self-learned things throughout the years, I tried these things (in order):
 In addition, I also picked these up from elsewhere:
 
 - Intermediate SQL
+
+## Wishlist
+
+In the future, I hope to:
+
+- [ ] Consolidate what I have messily learnt throughout the years
+- [ ] Re-learn GitHub using cmd, instead of using GUI
+- [ ] Read news
+- [ ] Think
+- [ ] Watch anime
+- [ ] Continue to make mods in free time (if there are any)
+- [ ] Enjoy life
+
+## Self-Promotion Area
+
+I have made quite some mods for some games. Here are some of them:
+
+| Mod name | Game | Link | Description |
+| - | - | - | - |
+| Remove Fog: X Rebirth | X: Rebirth | https://steamcommunity.com/sharedfiles/filedetails/?id=1436262588 | Removes fog from the game for increased performance. |
+| Responsible Managers | X: Rebirth | https://steamcommunity.com/sharedfiles/filedetails/?id=1463410453 | Bugfix to let player-owned managers to send in money correctly. |
+| Extra Notifications | X: Rebirth | https://steamcommunity.com/sharedfiles/filedetails/?id=1450838793 | QOL mod to let the player know where things are happening. |
+| Specialized Industry Fix Redux | Cities: Skylines | https://steamcommunity.com/sharedfiles/filedetails/?id=1553517176 | Bugfix to avoid specialized industry from randomly shutting down. |
+| Desynchronized: Tales and News | RimWorld | https://steamcommunity.com/sharedfiles/filedetails/?id=1573233249 | Information spreads from one to another. |
+| Real-Time Clock Plus | RimWorld | https://steamcommunity.com/sharedfiles/filedetails/?id=1649648654 | Extra options for the real-time clock. Also discourages long hours of gaming. |
+| Elite Bionics Framework | RimWorld | https://steamcommunity.com/sharedfiles/filedetails/?id=1665403571 | Extra options about body parts for other modders. |
+| Civilian Fleets | X4: Foundations | https://www.nexusmods.com/x4foundations/mods/335 | QOL mod to simplify trading and mining management. |
+
+## CSCI3251 Engineering Practicum Milestone 2
+
+![Git setup screenshot](https://github.com/csci3251-2020/student-1155125194/blob/master/gitsnap.png)
+
+## Conclusion
+
+That's all I want to say. See you around!

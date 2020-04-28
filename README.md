@@ -61,6 +61,8 @@ I have made quite some mods for some games. Here are some of them:
 
 ![Git setup screenshot](https://github.com/csci3251-2020/student-1155125194/blob/master/gitsnap.png)
 
+Note: I typed this document after I `git init` and uploaded this file.
+
 ## Conclusion
 
 That's all I want to say. See you around!

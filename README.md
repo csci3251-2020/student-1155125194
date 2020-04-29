@@ -20,7 +20,7 @@ As I self-learned things throughout the years, I tried these things (in order):
 - General-purpose C
 - General-purpose C++
 - Joining GitHub
-- MineCraft modding with Java (modding environment setup failed and got perma-banned from Forge Forums for asking for help too frequently; now hates Java somewhat)
+- MineCraft modding with Java (modding environment setup failed and got perma-banned from Forge Forums for asking for help too frequently; now dislikes Java somewhat)
 - Simple web system in an extra school project using basic HTML, CSS, JavaScript, jQuery, PHP, and SQL (unexpected non-salvagable fatal bug in live production, now slightly scared when using them)
 - RimWorld modding with C#
 - Cities: Skylines modding with C#
